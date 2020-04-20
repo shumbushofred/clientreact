@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/clientreact/static/css/main.96dc3664.chunk.css",
+    "main.js": "/clientreact/static/js/main.d9ac04e5.chunk.js",
+    "main.js.map": "/clientreact/static/js/main.d9ac04e5.chunk.js.map",
+    "runtime-main.js": "/clientreact/static/js/runtime-main.f836b5ee.js",
+    "runtime-main.js.map": "/clientreact/static/js/runtime-main.f836b5ee.js.map",
+    "static/css/2.de424728.chunk.css": "/clientreact/static/css/2.de424728.chunk.css",
+    "static/js/2.c1345066.chunk.js": "/clientreact/static/js/2.c1345066.chunk.js",
+    "static/js/2.c1345066.chunk.js.map": "/clientreact/static/js/2.c1345066.chunk.js.map",
+    "index.html": "/clientreact/index.html",
+    "precache-manifest.75479cc36a66ce9982d28d1c92771c1d.js": "/clientreact/precache-manifest.75479cc36a66ce9982d28d1c92771c1d.js",
+    "service-worker.js": "/clientreact/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/clientreact/static/css/2.de424728.chunk.css.map",
+    "static/css/main.96dc3664.chunk.css.map": "/clientreact/static/css/main.96dc3664.chunk.css.map",
+    "static/js/2.c1345066.chunk.js.LICENSE.txt": "/clientreact/static/js/2.c1345066.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/clientreact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f836b5ee.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.c1345066.chunk.js",
+    "static/css/main.96dc3664.chunk.css",
+    "static/js/main.d9ac04e5.chunk.js"
+  ]
+}
